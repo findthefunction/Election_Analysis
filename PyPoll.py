@@ -106,7 +106,7 @@ for candidate_name in candidate_votes:
 
     # 4. Print the candidate name and percentage of votes.
 
-    print(f"{candidate_name}: received {vote_percentage}% of the vote.")
+    print(f"{candidate_name}: received {round(vote_percentage,2)}% of the vote.")
 
 
 
