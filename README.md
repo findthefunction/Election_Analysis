@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #        :::::::::  :::   :::          :::::::::   ::::::::  :::        :::  
 #       :+:    :+: :+:   :+:          :+:    :+: :+:    :+: :+:        :+:   
 #      +:+    +:+  +:+ +:+           +:+    +:+ +:+    +:+ +:+        +:+    
@@ -6,26 +5,6 @@
 #    +#+           +#+             +#+        +#+    +#+ +#+        +#+      
 #   #+#           #+#             #+#        #+#    #+# #+#        #+#       
 # ####           ###             ###         ########  ########## ########## 
-
-
-=======
-# Election_Analysis
->>>>>>> 47e5b242605653d501d9a2710d44e0a64b0fea92
-
-#   Project out comes:
-
-# #  Calculate Total Number of Votes cast
-
-# # #  A complete list of candidates / counties who received votes
-
-# # # #  Total number of votes each candidate / counties received
-
-# # #  Percentage of votes each candidate won
-
-# #  The winner of the election based on popular vote   
-
-#  Have fun.
-
 
 # Overview of Election
 
@@ -47,6 +26,19 @@ Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 ------------------------
+Large County Turnout: Denver
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+
+# Election Audit Summary
+
+Pypoll is an effective and dynamic tool for election auditing.  The software we created provides accurate results rapidly that can be broken down into categories for future election planning and for real time election monitoring.  By converting spreadsheet data into dictionaries and databases we can highlight and cross reference information to enable clear concise reporting quickly.  We can use any dataset with the same categorical organization structure to complete this output.  Several ways to enhance this program would be to use registered voter databases and population data to determine voter turnout based on population. It can be run in metered intervals to determine real-time percentages by running the script on an updating dataset.
 Large County Turnout: Denver
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
