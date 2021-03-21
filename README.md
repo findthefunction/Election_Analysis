@@ -32,6 +32,18 @@ Winning Percentage: 73.8%
 # Election Audit Summary
 
 Pypoll is an effective and dynamic tool for election auditing.  The software we created provides accurate results rapidly that can be broken down into categories for future election planning and for real time election monitoring.  By converting spreadsheet data into dictionaries and databases we can highlight and cross reference information to enable clear concise reporting quickly.  We can use any dataset with the same categorical organization structure to complete this output.  Several ways to enhance this program would be to use registered voter databases and population data to determine voter turnout based on population. It can be run in metered intervals to determine real-time percentages by running the script on an updating dataset.
+
+
+
+
+
+
+
+
+
+
+
+Pypoll is an effective and dynamic tool for election auditing.  The software we created provides accurate results rapidly that can be broken down into categories for future election planning and for real time election monitoring.  By converting spreadsheet data into dictionaries and databases we can highlight and cross reference information to enable clear concise reporting quickly.  We can use any dataset with the same categorical organization structure to complete this output.  Several ways to enhance this program would be to use registered voter databases and population data to determine voter turnout based on population. It can be run in metered intervals to determine real-time percentages by running the script on an updating dataset.
 Large County Turnout: Denver
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
